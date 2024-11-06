@@ -4,7 +4,7 @@ This project is a **Free QR Code Generator** built with HTML, CSS, and JavaScrip
 
 ## Live Demo
 
-You can view a live demo of this project [here](#).
+You can view a live demo of this project [here]( https://pandureddie1216.github.io/Qr_generator/).
 
 ## Features
 
